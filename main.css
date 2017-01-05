@@ -1,0 +1,46 @@
+body {
+  background: url("https://ww2.sinaimg.cn/mw690/6d54c8b7jw1fbdh8heg7nj20q40gldhy.jpg") no-repeat;
+  height:100%;
+  width:100%;
+  background-size:cover;
+  background-attachment:fixed;
+  font-family: YouYuan, "Microsoft YaHei", Serif;
+}
+a:link {color:#000;} /* 未访问的链接 */
+a:visited {color:#000;} /* 已访问的链接 */
+a:hover {color:#000;} /* 鼠标划过链接 */
+a:active {color:#000;} /* 已选中的链接 */ 
+nav {
+	position: fixed;
+	top: 20px;
+	left: 20px;
+	margin: 0em;
+    text-align: center;
+    font-size: 25px;
+    opacity: 0.9;
+    }
+#main {
+	overflow: hidden;
+	margin: 5em;
+	opacity: 0.825;
+}
+#About {
+	margin: 5em;
+	height: 700px;
+  opacity: 0.825;
+  text-align: center;
+}
+#About p {
+  margin: 50px;
+}
+#cellme {
+  margin: 5em;
+  background-color: gray;
+  opacity: 0.825;
+}
+#cellme p {
+  font-size: 10px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: -50px;
+}
