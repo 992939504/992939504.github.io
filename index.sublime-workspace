@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"i",
+				"inline-flex"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"get",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"g",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"S",
+				"Style/"
+			],
+			[
+				"spa",
+				"span	Tag"
+			],
+			[
+				"span",
+				"span"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"ech",
+				"echo〔keyword〕"
+			],
+			[
+				"addl",
+				"addLoadEvent"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"gete",
+				"getElementsByTagName"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"el",
+				"getElementsByTagName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: java.math."
+			],
+			[
+				"sett ",
+				"Preferences: Package Control Settings – Default→插件设置 – 默认"
+			],
+			[
+				"sett",
+				"Preferences: Package Control Settings – User→插件设置 – 用户"
+			],
+			[
+				"install",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"pci",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/pro2/some.html",
+		"/F/Downloads/5FA43ED9B7AFB1FDD4EC3BDBE13421554ED6875A.torrent",
+		"/F/pro/README.md",
+		"/F/pro/main.js",
+		"/F/pro/index.html",
+		"/F/pro/main.css",
+		"/G/1.c",
+		"/F/新建文件夹/index.html",
+		"/E/newhtml/README.md",
+		"/G/Users/Administrator.pual-PC/Desktop/RealTimeCaclPoints.user.js",
+		"/E/war3/改建.ahk",
+		"/F/www/Script/README.md",
+		"/G/Users/Administrator.pual-PC/Desktop/1.js",
+		"/E/newhtml/scripts/global.js",
+		"/G/Users/Administrator.pual-PC/Pictures/js/scratchpad.js",
+		"/G/hi.lua",
+		"/F/www/Script/usdfunction.js",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/User/Git.sublime-settings",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/F/www/Style/main.css",
+		"/G/Users/Administrator.pual-PC/Desktop/笔记/usdfunction.js",
+		"/G/Users/Administrator.pual-PC/Desktop/smallslider/js/jquery.smallslider.js",
+		"/F/www/index.html",
+		"/E/www/apache2.2/htdocs/js/grayscale.js",
+		"/G/Users/Administrator.pual-PC/Pictures/js/javascript.js",
+		"/E/www/apache2.2/htdocs/js/usdfunction.js",
+		"/E/www/apache2.2/htdocs/js/playes.js",
+		"/E/www/apache2.2/htdocs/js/positionMessage.js",
+		"/E/www/apache2.2/htdocs/js/moveElement.js",
+		"/E/www/apache2.2/htdocs/js/modernizr.custom.js",
+		"/E/www/apache2.2/htdocs/js/displayAbbreviations.js",
+		"/E/newhtml/styles/layout.css",
+		"/E/newhtml/index.html",
+		"/G/Users/Administrator.pual-PC/Pictures/图库.html",
+		"/G/Users/Administrator.pual-PC/Pictures/style/layout.css",
+		"/G/Users/Administrator.pual-PC/Pictures/style/style.css",
+		"/F/www/Script/main.css",
+		"/E/newhtml/About.html",
+		"/E/newhtml/scripts/usdfunction.js",
+		"/E/newhtml/1.php",
+		"/D/Program Files/TTPlayer/Lyrics/关喆 - 想你的夜.lrc",
+		"/E/newhtml/Mark.html",
+		"/E/newhtml/Luke.html",
+		"/E/newhtml/Johon.html",
+		"/G/beeandog.java",
+		"/E/Java/bin/runJava.bat",
+		"/D/Sublime Text/Sublime Text 3x86/Packages/Java.sublime-package",
+		"/G/beeandog.class",
+		"/G/Users/Administrator.pual-PC/workspace/is test/src/dog/package-info.java",
+		"/E/newhtml/scripts/jquery-3.1.1.main.js",
+		"/E/newhtml/scripts/modernizr.custom.js",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/User/Emmet.sublime-settings",
+		"/E/www/apache2.2/htdocs/index.html",
+		"/E/newhtml/matthew.html",
+		"/E/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/G/Windows/System32/drivers/etc/hosts",
+		"/E/xampp/apache/conf/httpd.conf",
+		"/E/xampp/htdocs/index.php",
+		"/E/xampp/apache/logs/access.log",
+		"/e/xampp/phpMyAdmin/config.inc.php",
+		"/E/xampp/php/php.ini",
+		"/E/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/G/hello.c",
+		"/E/xampp/htdocs/1.php",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/G/Users/Administrator.pual-PC/Desktop/1.php",
+		"/E/www/apache2.2/conf/httpd.conf",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/User/JavaScript.sublime-settings",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/User/JSON.sublime-settings",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/gVimPortable_7.4/_vimrc",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/SublimeLinter-jshint/test.js",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/User/Package Control.sublime-settings",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/sublimeLinter/README.md",
+		"/G/Users/Administrator.pual-PC/Pictures/js/usdfunction.js",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/SublimeLinter/README.md",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/SublimeLinter/changelog.txt",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Sublime Text/Sublime Text 3x86/Data/Packages/User/Preferences.sublime-settings",
+		"/G/Users/Administrator.pual-PC/Pictures/NEWTEXT.HTML"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"conf/extra/httpd-vhosts.conf",
+			"apache",
+			"User",
+			"User apache",
+			"Index",
+			"Listen",
+			"Listen Port"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
